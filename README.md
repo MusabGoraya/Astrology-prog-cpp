@@ -1,1 +1,0 @@
-# Astrology-prog-cpp
